@@ -1,0 +1,57 @@
+.contentInLogin {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftLand {
+  background-color: rgba(0, 42, 255, 0.227);
+}
+
+.rightLand {
+  background-color: white;
+}
+
+.formColumn {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btnSubmit {
+  width: 20%;
+}
+
+.alertSuccess {
+  background-color: rgba(8, 181, 8, 0.112);
+  width: 40%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  color: green;
+}
+
+.alertFailed {
+  background-color: rgba(255, 0, 0, 0.111);
+  width: 40%;
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  color: red;
+}
+
+.selectlang {
+  border: none;
+  outline: none;
+  width: 80px;
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgba(20, 20, 21, 0.175);
+}

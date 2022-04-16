@@ -1,0 +1,12 @@
+{
+  "recommendation": "กรุณาทำการเข้าสู่ระบบก่อนเข้าชมเว็บไซต์",
+  "usernameLabel": "ชื่อบัญชีผู้ใช้งาน (อีเมลล์)",
+  "passwordLabel": "รหัสผ่าน",
+  "errorInvalidUsername": "บัญชีผู้ใช้งานผิดรูปแบบ",
+  "errorRequireUsername": "กรุณากรอกชื่อผู้ใช้งาน",
+  "errorRequirePassword": "กรุณากรอกรหัสผ่าน",
+  "alertLoginFailed": "เข้าสู่ระบบไม่ถูกต้อง",
+  "alertLoginSuccess": "เข้าสู่ระบบถูกต้อง",
+  "btnSubmitLogin": "เข้าสุ่ระบบ",
+  "chooseLang": "เปลี่ยนภาษา"
+}

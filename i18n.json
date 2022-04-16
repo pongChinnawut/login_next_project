@@ -1,0 +1,9 @@
+{
+  "locales": ["th", "en"],
+  "defaultLocale": "en",
+  "localeDetection": false,
+  "pages": {
+    "*": ["common"],
+    "/profile": ["profile"]
+  }
+}

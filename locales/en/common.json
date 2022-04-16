@@ -1,0 +1,12 @@
+{
+  "recommendation": "Please login before access my website",
+  "usernameLabel": "Username (Email)",
+  "passwordLabel": "Password",
+  "errorInvalidUsername": "Invalid email address",
+  "errorRequireUsername": "Username is require",
+  "errorRequirePassword": "Password is require",
+  "alertLoginFailed": "Login Failed",
+  "alertLoginSuccess": "Login Successful",
+  "btnSubmitLogin": "Login",
+  "chooseLang": "Change your language"
+}

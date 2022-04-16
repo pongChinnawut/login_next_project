@@ -1,0 +1,25 @@
+.welcometext {
+  color: aliceblue;
+  font-size: 48x;
+}
+
+.mainNotfound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.btnReLogin {
+  outline: none;
+  border: none;
+  background-color: rgb(253, 248, 248);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.btnReLogin:hover {
+  background-color: rgba(173, 193, 231, 0.515);
+  font-weight: bold;
+  transition: all 0.5s;
+  cursor: pointer;
+}
